@@ -1,1 +1,5 @@
+ HEAD
 Текст из ветки MAIN
+
+Текст из ветки FEATURE
+ feature
